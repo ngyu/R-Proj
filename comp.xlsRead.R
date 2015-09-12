@@ -1,3 +1,5 @@
+## compare two package for reading Excel sheet
+
 library(gdata)
 t1 <- Sys.time()
 df <- read.xls("/Volumes/Evaluation/FIP/2015/WW007/RefTraits/2015_WW007_BBCH.xlsx",1)
