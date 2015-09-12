@@ -1,1 +1,1 @@
-this is a RStudio proj for testing git
+This is a RStudio proj for testing git and collecting a set of R scripts of interest!
